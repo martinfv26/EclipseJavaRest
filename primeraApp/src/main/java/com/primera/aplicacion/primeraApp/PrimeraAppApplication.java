@@ -10,6 +10,7 @@ public class PrimeraAppApplication {
 		SpringApplication.run(PrimeraAppApplication.class, args);
 		
 		
+		
 	}
 
 }
